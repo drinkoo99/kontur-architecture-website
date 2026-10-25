@@ -1,0 +1,228 @@
+{
+  "hill-hero": {
+    "widths": [
+      1920,
+      1280,
+      800
+    ],
+    "ratio": 0.6667
+  },
+  "hill-interior-stair": {
+    "widths": [
+      1920,
+      1280,
+      800
+    ],
+    "ratio": 0.6667
+  },
+  "hill-living": {
+    "widths": [
+      1920,
+      1280,
+      800
+    ],
+    "ratio": 0.75
+  },
+  "hill-kitchen": {
+    "widths": [
+      1920,
+      1280,
+      800
+    ],
+    "ratio": 0.6667
+  },
+  "hill-detail-room": {
+    "widths": [
+      900,
+      640
+    ],
+    "ratio": 1.5
+  },
+  "courtyard-villa": {
+    "widths": [
+      1920,
+      1280,
+      800
+    ],
+    "ratio": 0.8387
+  },
+  "courtyard-pool": {
+    "widths": [
+      1920,
+      1280,
+      800
+    ],
+    "ratio": 0.6667
+  },
+  "courtyard-interior": {
+    "widths": [
+      1920,
+      1280,
+      800
+    ],
+    "ratio": 0.7442
+  },
+  "courtyard-dining": {
+    "widths": [
+      900,
+      640
+    ],
+    "ratio": 0.6667
+  },
+  "courtyard-furniture": {
+    "widths": [
+      900,
+      640
+    ],
+    "ratio": 0.6675
+  },
+  "terrace-hero": {
+    "widths": [
+      1920,
+      1280,
+      800
+    ],
+    "ratio": 1
+  },
+  "terrace-white": {
+    "widths": [
+      1920,
+      1280,
+      800
+    ],
+    "ratio": 0.6667
+  },
+  "terrace-stair": {
+    "widths": [
+      1920,
+      1280,
+      800
+    ],
+    "ratio": 1.5
+  },
+  "terrace-interior": {
+    "widths": [
+      900,
+      640
+    ],
+    "ratio": 0.68
+  },
+  "terrace-room": {
+    "widths": [
+      900,
+      640
+    ],
+    "ratio": 0.6667
+  },
+  "museum-facade": {
+    "widths": [
+      1920,
+      1280,
+      800
+    ],
+    "ratio": 0.6667
+  },
+  "museum-dome": {
+    "widths": [
+      1920,
+      1280,
+      800
+    ],
+    "ratio": 1.5042
+  },
+  "museum-pavilion": {
+    "widths": [
+      1920,
+      1280,
+      800
+    ],
+    "ratio": 1.5
+  },
+  "museum-construction": {
+    "widths": [
+      1920,
+      1280,
+      800
+    ],
+    "ratio": 0.6667
+  },
+  "mill-balconies": {
+    "widths": [
+      1920,
+      1280,
+      800
+    ],
+    "ratio": 0.7508
+  },
+  "mill-stair": {
+    "widths": [
+      1920,
+      1280,
+      800
+    ],
+    "ratio": 0.6667
+  },
+  "mill-entrance": {
+    "widths": [
+      1920,
+      1280,
+      800
+    ],
+    "ratio": 0.6667
+  },
+  "mill-detail": {
+    "widths": [
+      900,
+      640
+    ],
+    "ratio": 1.5
+  },
+  "vertical-towers": {
+    "widths": [
+      1920,
+      1280,
+      800
+    ],
+    "ratio": 1.2758
+  },
+  "vertical-facade": {
+    "widths": [
+      1920,
+      1280,
+      800
+    ],
+    "ratio": 0.6667
+  },
+  "vertical-skyline": {
+    "widths": [
+      1920,
+      1280,
+      800
+    ],
+    "ratio": 0.6667
+  },
+  "vertical-grid": {
+    "widths": [
+      1920,
+      1280,
+      800
+    ],
+    "ratio": 0.6667
+  },
+  "approach-timber": {
+    "widths": [
+      1920,
+      1280,
+      800
+    ],
+    "ratio": 1.5
+  },
+  "studio-completion": {
+    "widths": [
+      1920,
+      1280,
+      800
+    ],
+    "ratio": 0.6667
+  }
+}
